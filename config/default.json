@@ -1,0 +1,35 @@
+{
+  "port": 3333,
+  "dbUri": "mongodb+srv://shahriyor:shahriyor@cluster0.3yyjans.mongodb.net/itterm?retryWrites=true&w=majority&appName=Cluster0",
+  "tokenKey": "MySecretTokenKey",
+  "adminKey": "MySecretTokenKeyAdmin",
+  "userKey": "MySecretTokenKeyUser",
+  "tokenExpTime": "24h",
+  "userExpTime": "24h",
+  "adminExpTime": "24h",
+
+  "access_key": "AccsessTokenSecretKeyqqqqqq",
+  "refresh_key": "RefreshTokenSecretKeyqqqqqq",
+  "access_time": "15h",
+  "refresh_time": "15d",
+  "cookie_refresh_time": 1296000000,
+
+  "adminAccess_key": "AdminAccsessTokenSecretKeyqqqqqq",
+  "adminRefresh_key": "AdminRefreshTokenSecretKeyqqqqqq",
+  "adminAccess_time": "10h",
+  "adminRefresh_time": "15d",
+  "adminCookie_refresh_time": 1296000000,
+
+  "userAccess_key": "UserAccsessTokenSecretKeyqqqqqq",
+  "userRefresh_key": "UserRefreshTokenSecretKeyqqqqqq",
+  "userAccess_time": "10h",
+  "userRefresh_time": "15d",
+  "userCookie_refresh_time": 1296000000,
+
+  "smtp_password": "vtgzetanaqyphazn",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 587,
+  "smtp_user": "zaripovshahriyor91@gmail.com",
+  "api_url": "http://localhost:3000"
+  
+}
